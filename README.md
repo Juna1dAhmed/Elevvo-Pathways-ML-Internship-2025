@@ -5,7 +5,7 @@ The program provided a **remote, self-paced, and project-based experience**, foc
 
 ---
 
-## 🏛️ Internship Summary
+##  Internship Summary
 
 **Program:** Machine Learning Track  
 **Organization:** [Elevvo Tech](https://elevvo.tech), Cairo, Egypt  
@@ -15,7 +15,7 @@ The program provided a **remote, self-paced, and project-based experience**, foc
 
 ---
 
-## 📘 Skills Gained
+##  Skills Gained
 
 - Data preprocessing, feature engineering, and EDA  
 - Regression, classification, clustering, and deep learning  
@@ -26,7 +26,7 @@ The program provided a **remote, self-paced, and project-based experience**, foc
 
 ---
 
-## 🧩 Internship Tasks Overview
+##  Internship Tasks Overview
 
 | # | Project Title | Dataset | Domain |
 |---|----------------|----------|--------|
@@ -59,7 +59,7 @@ Elevvo-ML-Internship/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Name:** Junaid Ahmed  
 **Email:** chandiojunaid3@gmail.com  
@@ -68,7 +68,7 @@ Elevvo-ML-Internship/
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This repository demonstrates my applied knowledge of machine learning and data science gained through the **Elevvo Pathways Internship**, showcasing end-to-end model development and evaluation across multiple domains.
 
